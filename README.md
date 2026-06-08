@@ -145,34 +145,6 @@ Evaluation was performed on:
 
 ---
 
-## Results
-
-### Sample Training Results
-
-Add screenshots from your dissertation here.
-
-```markdown
-![LSTM Training Results](images/lstm_training_results.png)
-
-![Random Forest Results](images/random_forest_results.png)
-
-![Ensemble Forecast Results](images/ensemble_results.png)
-```
-
----
-
-## Repository Structure
-
-```text
-Stock-Market-Forecasting/
-│
-├── stock_market_forecasting.ipynb
-├── README.md
-└── images/
-```
-
----
-
 ## Future Improvements
 
 Potential future enhancements include:
@@ -200,10 +172,8 @@ Potential future enhancements include:
 
 ## Author
 
-**Gohar Baig**
+**Mirza Gohar Baig Barlas**
 
-MSc Data Science | Data Analyst | Machine Learning Enthusiast
 
-LinkedIn: *(Add your LinkedIn URL here)*
 
 GitHub: *(Add your GitHub profile URL here)*
