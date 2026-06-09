@@ -114,7 +114,7 @@ The final forecasting approach was selected based on:
 - Mean Squared Error (MSE)
 - R² Score
 
-The ensemble producing the most favourable evaluation metrics was used for future stock price forecasting.
+The ensemble producing the most favourable evaluation metrics was used for future stock price forecasting on unseen data.
 
 This strategy improved forecasting stability and reduced dependence on any individual model.
 
