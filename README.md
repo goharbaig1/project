@@ -141,25 +141,25 @@ The results below illustrate the model performance during training, testing on u
 
 The models were first trained on historical stock market data from five FTSE-listed companies. LSTM, Random Forest, and GBM models were evaluated to compare their ability to capture stock price patterns.
 
-![Training Result 1](images/fig1.jpg)
+![Training Result 1](images/fig1.JPG)
 
-![Training Result 2](images/fig2.jpg)
-![Training Result 3](images/fig3.jpg)
+![Training Result 2](images/fig2.JPG)
+![Training Result 3](images/fig3.JPG)
 
 ### Testing on Unseen Stock Data
 
 After training, the models were tested on unseen stock data to evaluate generalisation performance. Ensemble averaging was used to combine predictions from models trained on different stocks.
 
-![Testing Result 1](images/fig4.jpg)
+![Testing Result 1](images/fig4.JPG)
 
-![Testing Result 2](images/fig5.jpg)
+![Testing Result 2](images/fig5.JPG)
 ### Future Stock Price Forecasting
 
 Future forecasting was performed to evaluate how well the trained models could predict stock prices beyond the historical training period.
 
-![Future Forecast 1](images/fig6.jpg)
+![Future Forecast 1](images/fig6.JPG)
 
-![Future Forecast 2](images/fig7.jpg)
+![Future Forecast 2](images/fig7.JPG)
 
 ---
 ## Key Findings
