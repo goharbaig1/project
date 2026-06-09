@@ -1,5 +1,4 @@
-# 📈 Stock Market Forecasting Using Machine Learning and Ensemble Learning
-
+# 📈 Stock Market Forecasting Using Machine Learning Models
 ## Overview
 
 This project was developed as part of my MSc Data Science dissertation at the University of Hertfordshire.
